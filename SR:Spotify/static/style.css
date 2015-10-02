@@ -1,0 +1,82 @@
+/* de olika delarnas stilar */
+header {
+      padding: 20px;
+      text-align:center;
+      border: 5px;
+      background-color:green;
+}
+
+nav {
+      float:left;
+      background-color:yellow;
+      height: auto;
+      width: 100%;
+      margin: 0px;
+}
+
+#content{
+    width:100%;
+    background-color: #054215;
+    height: auto;
+    margin: auto;
+}
+
+nav > p {
+    width: 17%;
+    padding: 1%;
+    float:left;
+    border: 1px solid black;
+    height: auto;
+    margin: 0px;
+}
+
+header {
+      padding: 20px;
+      text-align:center;
+      border: 5px;
+      background-color:#f3c3c3;
+}
+
+nav {
+      float:left;
+      background-color:#c3c1c1;
+      height: auto;
+      width: 100%;
+      margin: 0px;
+}
+
+#all{
+    width:100%;
+    background-color: #f3c3c3;
+    height: auto;
+    margin: auto;
+    overflow:hidden;
+}
+
+#content{
+      float:left;
+      background-color:#f3c3c3;
+      height: auto;
+      width: 1326px;
+      margin: 0px;
+      padding: 10px;
+}
+
+nav > p {
+    width: 240px;
+    padding: 1%;
+    float:left;
+    height: auto;
+    margin: 0px;
+    border: 1px solid black;
+    text-align:center;
+}
+
+footer {
+        background-color: #c3c1c1;
+        float:left;
+        height: auto;
+        width: 1326px;
+        margin: 0px;
+        padding: 10px;
+}
